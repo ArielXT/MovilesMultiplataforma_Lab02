@@ -42,7 +42,7 @@ namespace Lab02
             //perimetro = punto1+punto2+punto3+punto4;
             //suma_de_areas = Math.Abs((x1*y2+x2*y3+x3*y4+x4*y1)-(x1*y4+x4*y3+x3*y2+x2*y1));
             //area = suma_de_areas / 2;
-            //Console.WriteLine("Ya pero eres o no eres? " + rectangulo.Rectangulo_o_no()  );
+            //Console.WriteLine("Es un rectangulo? " + rectangulo.Rectangulo_o_no()  );
             Console.WriteLine("------------------------------------------------------------------------");
             Console.WriteLine("El Perimetro del Rectangulo es: " + rectangulo.Perimetro() + " y su Area es: " + rectangulo.Area());
             Console.WriteLine("------------------------------------------------------------------------");
